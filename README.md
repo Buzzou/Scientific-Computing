@@ -1,4 +1,3 @@
-# Scientific-Computing
-西南科技大学科学计算导论(JK160510)
+## Scientific-Computing
 
-联系方式：sc22r2l@leeds.ac.uk
+西南科技大学科学计算导论(JK160510)
